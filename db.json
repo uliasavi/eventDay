@@ -1,0 +1,89 @@
+{
+"speakers":[
+       {
+         "image": "04.jpg",
+        "name": "JEFF SEVERIN", 
+         "work": "Pixar Animation Studios", 
+         "num": 1,
+         "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+      },
+       {
+        "image": "05.jpg",
+         "name": "JAMIE WEN", 
+        "work": "GM, The boxtrap",
+         "num": 2,
+"about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+
+     },
+       {
+       "image": "06.jpg",
+        "name": "CHELSIE", 
+     "work": "CEO, Hatem Co.",
+      "num": 3,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+
+   },
+       {
+       "image": "07.jpg",
+        "name": "WILLIAM  JOHN", 
+     "work": "Producer, CSI:Cyber", 
+  "num": 4,
+  "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+
+},
+       {
+       "image": "08.jpg", 
+    "name": "RUTH R. SMITH", 
+ "work": "CCO, Bittorrent", 
+"num": 5,
+"about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+
+},
+       {
+       "image": "09.jpg",
+        "name": "RICKEY D. NG", 
+     "work": "CEO, The Sage Group", 
+  "num": 6,
+  "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+
+},
+       {
+       "image": "10.jpg",
+    "name": "ROBIN A. GUZMAN",
+     "work": "Co-Founder & CEO, Slack",
+      "num": 7,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+
+   },
+       {
+       "image": "11.jpg",
+        "name": "CODY L. BALL", 
+     "work": "Pixar Animation Studios",
+      "num": 8,
+      "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita voluptas illum quibusdam a at, ab, officiis consequatur repudiandae soluta porro minima iusto, hic sit quod blanditiis suscipit rem molestiae molestias."
+
+   }
+     ],
+  
+
+  "blogs":[
+       {
+        "image": "27.jpg", 
+       "date": "14 Sep 2015", 
+     "num": "1B",
+      "text": "River stumble as Cruzeiro but fly high in table prove"
+    },
+       {
+       "image": "28.jpg", 
+     "date": "14 Sep 2015", 
+   "num": "2B", 
+ "text": "Brooklyn Beta was the most important conferen tristique"
+},
+       {
+       "image": "29.jpg", 
+     "date": "14 Sep 2015", 
+   "num": "3B", 
+ "text": "Gallery porchetta as Cruzeiro but fly high in table proving"
+}
+     ]
+}
